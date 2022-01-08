@@ -5,5 +5,6 @@
 <h1>🔧 Dependencias</h1>
 
 <ul>
-  <li></li>
+  <li>pyzbar.pyzbar</li>
+  <li>PIL</li>
 </ul>

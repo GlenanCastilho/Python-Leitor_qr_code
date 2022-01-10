@@ -8,3 +8,9 @@
   <li>pyzbar.pyzbar</li>
   <li>PIL</li>
 </ul>
+
+<h1>📚 Requisitos</h1>
+
+<ul>
+  <li></li>
+ </ul>

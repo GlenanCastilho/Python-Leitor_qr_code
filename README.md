@@ -19,4 +19,6 @@
 
 <h4>
   Rodar a aplicação:
+  <br>
+  $ lerQr.py
 </h4>
